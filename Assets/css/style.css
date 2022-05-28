@@ -84,4 +84,12 @@ textarea {
 
 .form-control {
   height: 80px;
+  width: 900px;
+}
+
+.btn-outline-secondary {
+  border-color: #000000;
+  color: #000000;
+  background-color: #06aed5;
+  width: 80px;
 }
