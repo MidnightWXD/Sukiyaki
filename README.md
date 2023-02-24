@@ -15,4 +15,4 @@ function loadText() is used to load text from loacl storage so that when user re
 ![Work Day Scheduler](./Assets/images/3.png)
 
 
-https://midnightwxd.github.io/Sukiyaki/
+https://midnightwxd.github.io/Sukiyaki-Work-Day-Scheduler
